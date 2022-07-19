@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/hbvk/e05a1b06-3e0b-49c2-847f-d30a6db2a3d6/02d24160-7505-4d26-a772-294bb7b9a382/_apis/work/boardbadge/78c7c186-a2e1-4e04-899b-1770bf75c41d)](https://dev.azure.com/hbvk/e05a1b06-3e0b-49c2-847f-d30a6db2a3d6/_boards/board/t/02d24160-7505-4d26-a772-294bb7b9a382/Microsoft.RequirementCategory)
 # az400test
